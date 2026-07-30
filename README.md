@@ -277,8 +277,6 @@ Invoke-PS2EXE `
 
 El archivo `.exe` no se almacena directamente en el repositorio.
 
-Las versiones ejecutables oficiales pueden publicarse como archivos adjuntos dentro de la sección **Releases** de GitHub.
-
 ---
 
 ## Seguridad y privacidad
